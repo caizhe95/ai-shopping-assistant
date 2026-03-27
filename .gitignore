@@ -18,3 +18,4 @@ __patch_*.py
 __show_*.py 
 __import_*.py 
 .git/
+__write_*.py 
